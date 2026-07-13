@@ -4,6 +4,8 @@ An OBS Studio Lua script that updates a text source with the current date and
 time. The format uses Lua `os.date` tokens, so the same script can display a
 clock, a date, or both.
 
+![OBS Scripts window with datetime.lua configured](assets/obs-scripts-preview.png)
+
 ## Usage
 
 1. In OBS Studio, create a text source in the scene where you want the date or
