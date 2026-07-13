@@ -20,6 +20,15 @@ clock, a date, or both.
 
 The text source updates once per second while the source is visible in OBS.
 
+## Attribution
+
+Inspired by OBS Studio's bundled
+[`clock-source.lua`](https://github.com/obsproject/obs-studio/blob/master/plugins/frontend-tools/data/scripts/clock-source.lua)
+example. That script was originally added by
+[Colin Edwards / DDRBoxman](https://github.com/DDRBoxman) in
+[obsproject/obs-studio@1c3f18a](https://github.com/obsproject/obs-studio/commit/1c3f18a75ac3e64e7452a4ba091c24c64b6e79d8)
+and is maintained by the OBS Project.
+
 ## Format examples
 
 | Format | Example output |
